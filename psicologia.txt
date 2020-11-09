@@ -1,0 +1,7 @@
+Primer miniprograma amb jsfiddle sobre les estructures de dades simples.
+Més informació al link:
+https://jsfiddle.net/gdmuv427/2/
+
+Segon miniprograma amb jsfiddle sobre les estructures de dades complexes.
+Més informació al link:
+https://jsfiddle.net/d8jst4L0/2/
