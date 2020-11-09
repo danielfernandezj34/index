@@ -1,0 +1,11 @@
+Miniprograma amb jsfiddle fent Callback rebent paràmetres.
+Més informació al link:
+https://jsfiddle.net/gwohazr2/
+
+Miniprograma amb jsfiddle fent Callback sense rebre paràmetres i amb bucles.
+Més informació al link:
+https://jsfiddle.net/9jamt08d/1/
+
+Miniprograma amb jsfiddle fent Callback amb sentències de decisió.
+Més informació al link:
+https://jsfiddle.net/dxn9vjsf/2/
